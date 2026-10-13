@@ -18,7 +18,7 @@ Total: **12.061 W**.
 | Cool / no sun | 20.5 / 20.5°C | 22 W/(m² K) | off | 27.99°C | 42.55°C | 27.66°C | 78.52°C |
 
 
-## Original reference list
+## Reference list
 
 The following references were carried forward from the original project README;
 their inclusion does not certify every current numerical assumption.
