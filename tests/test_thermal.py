@@ -1,4 +1,3 @@
-"""Physical limiting cases and conservation checks for the lumped network."""
 from dataclasses import replace
 import importlib.util
 from pathlib import Path
